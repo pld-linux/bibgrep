@@ -2,7 +2,7 @@
 # - fix against home_etc
 # - simply... finish it..
 Summary:	Indexes and searches BibTeX files using Google-like queries
-Summary(pl.UTF-8):   Indeksowanie i przeszukiwanie plików BibTeXa przy użyciu zapytań w stylu Googli
+Summary(pl.UTF-8):	Indeksowanie i przeszukiwanie plików BibTeXa przy użyciu zapytań w stylu Googli
 Name:		bibgrep
 Version:	0.51
 Release:	0.1
