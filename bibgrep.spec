@@ -2,7 +2,7 @@
 # - fix against home_etc
 # - simply... finish it..
 Summary:	Indexes and searches BibTeX files using Google-like queries
-Summary(pl):	Indeksowanie i przeszukiwanie plików BibTeXa przy u¿yciu zapytañ w stylu Googli
+Summary(pl.UTF-8):   Indeksowanie i przeszukiwanie plikÃ³w BibTeXa przy uÅ¼yciu zapytaÅ„ w stylu Googli
 Name:		bibgrep
 Version:	0.51
 Release:	0.1
@@ -23,11 +23,11 @@ the result within "~/.bibgrep.idx" (by defaults). It watches the
 modification date and the size of the original BibTeX file, and will
 update (and delete) its index as needed.
 
-%description -l pl
-Bibgrep indeksuje i wydajnie przeszukuje pliki BibTeXa. U¿ycie go jest
-podobne do polecenia grep, a polecenia wykorzystuj± sk³adniê w stylu
-Googli. Bibgrep tworzy indeks dla ka¿dego przetwarzanego pliku BibTeXa
-i utrzymuje wynik w ~/.bibgrep.idx (domy¶lnie). Kontroluje datê
+%description -l pl.UTF-8
+Bibgrep indeksuje i wydajnie przeszukuje pliki BibTeXa. UÅ¼ycie go jest
+podobne do polecenia grep, a polecenia wykorzystujÄ… skÅ‚adniÄ™ w stylu
+Googli. Bibgrep tworzy indeks dla kaÅ¼dego przetwarzanego pliku BibTeXa
+i utrzymuje wynik w ~/.bibgrep.idx (domyÅ›lnie). Kontroluje datÄ™
 modyfikacji i rozmiar oryginalnego pliku BibTeXa i uaktualnia (lub
 kasuje) jego indeks w razie potrzeby.
 
